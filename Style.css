@@ -1,0 +1,26 @@
+html,body
+{
+    background-color:darkslategrey;
+    Position:absolute;
+}
+body { min-height: 100vh; 
+    min-width:100vh;
+    text-align:center;
+}
+input
+{
+    width:20%;
+    bottom:0;
+}
+img
+{
+    image-rendering:pixelated;
+    width:75%;
+}
+input{
+    image-rendering:pixelated;
+}
+p{
+    color:Wheat;
+    size:24px;
+}
