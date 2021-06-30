@@ -146,3 +146,4 @@ function Music(SongTog) {
         JavaBeat.play();
     }
 }
+//Thank you for checking out my code!!!
